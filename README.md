@@ -86,3 +86,4 @@ Parameter name: slot
 - Некорректный номер слота в `this[int]` бросает `ArgumentOutOfRangeException`.
 - `ToString()` выводит все слоты через запятую в квадратных скобках,
   пустые слоты — как `-`.
+<img width="438" height="125" alt="image" src="https://github.com/user-attachments/assets/20cd0395-123a-47db-b2fd-a76021a181fe" />
